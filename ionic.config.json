@@ -1,0 +1,7 @@
+{
+  "name": "gauth-mobile-react-2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
