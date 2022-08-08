@@ -1,4 +1,4 @@
-# gauth-mobile-react-app
+# # Capacitor Firebase Authentication Plugin from CapAwesome Team - Example React JS App
 
 A sample app showing how to integrate the [ Capacitor Firebase Authentication Plugin from CapAwesome Team](https://github.com/capawesome-team/capacitor-firebase) in an Ionic React Application
 
